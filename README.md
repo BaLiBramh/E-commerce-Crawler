@@ -4,7 +4,7 @@ Used Language - Python
 
 Used Libraries - requests, BeautifulSoup, csv, matplotlib
 
-A e-commerce crawler (internet bot) that fetch data from multiple e-commerce websites (like Amazon.in, Flipkart.in, OLX.in).
+A e-commerce crawler (internet bot), that fetch data from multiple e-commerce websites (like Amazon.in, Flipkart.in, OLX.in).
 
 Store fetched data into CSV(Comma-Separated Values) files.
 
